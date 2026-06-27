@@ -17,4 +17,4 @@ dist/
 *.egg-info/
 
 # Environment variables
-.env
+.envi
